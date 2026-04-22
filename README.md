@@ -80,7 +80,6 @@ Organic users consistently retain at higher levels, while promo users show a ste
 ![Promo Cohort Heatmap](docs/images/retention_promo_cohort.png)
 
 <p align="right"><sub>Note: Additional visualizations are available in the <code>docs/images</code> folder.</sub></p>
----
 
 ## 🚨 Notable Anomalies
 
