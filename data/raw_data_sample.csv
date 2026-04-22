@@ -1,0 +1,21 @@
+user_id,full_name,email,country,signup_datetime,signup_source,signup_device,promo_signup_flag
+4,Roksolana Polishchuk,roksolana.polishchuk4@example.com,PL,15.4.25 01:33,ads,web,1
+6,Maksym Rudenko,maksym.rudenko6@example.com,DE,6-4-2025 22:04,ads,web,1
+9,Volodymyr Lemko,volodymyr.lemko9@example.com,PL,08.05.2025 04:38,ads,ios,1
+13,Olha Mazur,olha.mazur13@example.com,UA,03.02.2025 20:13,organic,web,0
+14,Maria Tkachenko,MARIA.TKACHENKO14@EXAMPLE.COM,UA,22.05.2025 00:23,promo_campaign,web,1
+15,Bohdan Kramar,bohdan.kramar15@example.com,US,4-6-2025 23:18,promo_campaign,android,1
+18,Iryna Perebiynis,iryna.perebiynis18@example.com,DE,19-1-2025 23:14,social,web,0
+22,Tetiana Shevchenko,tetiana.shevchenko22@example.com,DE,13.03.2025 08:11,referral,ios,0
+23,Oksana Martynenko,oksana.martynenko23@example.com,DE,30.1.25 15:17,organic,android,0
+24,Tetiana Martynenko,TETIANA.MARTYNENKO24@EXAMPLE.COM,DE,1-4-2025 19:54,social,ios,0
+26,Volodymyr Savchenko,volodymyr.savchenko26@example.com,US,6.6.25 10:02,ads,web,1
+29,Vasyl Koval,vasyl.koval29@example.com,DE,7.5.25 12:03,ads,ios,1
+31,Mykola Kryvonos,mykola.kryvonos31@example.com,US,2-4-2025 10:32,organic,ios,0
+32,Oksana Savchenko,oksana.savchenko32@example.com,UA,17-1-2025 22:26,referral,android,0
+36,Nazar Bondar,nazar.bondar36@example.com,DE,26.01.2025 19:28,promo_campaign,ios,1
+37,Petro Perebiynis,petro.perebiynis37@example.com,UA,27.1.25 22:22,promo_campaign,android,1
+39,Andriy Lemko,andriy.lemko39@example.com,DE,15.5.25 10:58,promo_campaign,ios,1
+43,Svitlana Dorosh,svitlana.dorosh43@example.com,UA,21.06.2025 17:36,referral,ios,0
+45,Olha Khmara,olha.khmara45@example.com,DE,20.5.25 17:55,referral,ios,0
+46,Alina Hrabovych,alina.hrabovych46@example.com,UA,10-6-2025 21:07,organic,ios,0
