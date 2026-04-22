@@ -65,7 +65,7 @@ Overall, the two acquisition channels demonstrate clearly different retention pa
 ### 2. Segment Analysis: Organic vs. Promo
 
 Organic users consistently retain at higher levels, while promo users show a steeper decline in the early periods.
-
+---
 #### Organic Users
 
 **Cohort Heatmap**
